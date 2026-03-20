@@ -13,5 +13,7 @@ You will learn to:
 - Use C to create patterns using Arrays.
 - Perform basic functions of Palindrome, Sorting that I shared in my Loops Repository, using Arrays.
 
+Make sure to follow C topic-wise for better understanding. 
+
 I hope this helps :) 
 
